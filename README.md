@@ -1,4 +1,4 @@
-#Library Management System
+# Library Management System
 
 This is a simple library management system implemented using Python and MySQL.
 
